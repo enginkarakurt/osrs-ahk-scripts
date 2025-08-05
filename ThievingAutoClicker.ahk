@@ -1,6 +1,7 @@
-﻿toggle := false
+toggle := false
 
 F1::
+XButton1::
 XButton2::
     toggle := !toggle
     if (toggle) {
